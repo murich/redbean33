@@ -1,5 +1,5 @@
 {
-    "name": "redbean33",
+    "name": "phpteam/redbean33",
     "require": {
         "php": ">=5.2.0"
     }
