@@ -1,5 +1,5 @@
 {
-    "name": "murich/redbean33",
+    "name": "redbean33",
     "require": {
         "php": ">=5.2.0"
     }
